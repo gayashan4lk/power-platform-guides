@@ -18,3 +18,7 @@ https://learn.microsoft.com/en-us/power-platform/developer/cli/introduction
 `pac auth delete --index <index_number>` - Delete an authentication profile by its index in the list.
 
 `pac auth delete --name <profile_name>` - Delete an authentication profile by its name.
+
+
+## Delete all authentication profiles
+`pac auth clear` - Clear all authentication profiles.
